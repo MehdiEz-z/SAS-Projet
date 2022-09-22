@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1663802279 source:c:\users\ghaith\desktop\pharmacie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1663837424 source:c:\users\youcode\desktop\pharmacie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
